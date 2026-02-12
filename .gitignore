@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+
+# Local env
+.env
+
+# MacOS
+.DS_Store
+
+# Build/cache
+.pycache/
